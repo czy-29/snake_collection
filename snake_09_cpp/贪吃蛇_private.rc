@@ -1,0 +1,37 @@
+/* THIS FILE WILL BE OVERWRITTEN BY DEV-C++ */
+/* DO NOT EDIT! */
+
+#include <windows.h> // include for version info constants
+
+
+A ICON MOVEABLE PURE LOADONCALL DISCARDABLE "Ã∞≥‘…ﬂ.ico"
+
+//
+// TO CHANGE VERSION INFORMATION, EDIT PROJECT OPTIONS...
+//
+1 VERSIONINFO
+FILEVERSION 1,1,1,1
+PRODUCTVERSION 1,1,1,1
+FILETYPE VFT_APP
+{
+  BLOCK "StringFileInfo"
+	 {
+		 BLOCK "080404E4"
+		 {
+			 VALUE "CompanyName", "CZY_JERRY£®ST_Œ“∫‹√¶£©"
+			 VALUE "FileVersion", "V1.1"
+			 VALUE "FileDescription", "æ´ºÚ∞ÊÃ∞≥‘…ﬂ"
+			 VALUE "InternalName", "Ã∞≥‘…ﬂ"
+			 VALUE "LegalCopyright", ""
+			 VALUE "LegalTrademarks", ""
+			 VALUE "OriginalFilename", "æ´ºÚ∞ÊÃ∞≥‘…ﬂ"
+			 VALUE "ProductName", "Ã∞≥‘…ﬂ"
+			 VALUE "ProductVersion", "V1.1"
+		 }
+	 }
+  BLOCK "VarFileInfo"
+	 {
+		 VALUE "Translation", 0x0804, 1252
+	 }
+}
+
